@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I'm studying CE at SBU.
+My hobbies are coding and cooking!🌱
+I'm currently studying JS and Python.
+I wish you enjoy my GitHub.⚡
 <!--
 **KosarDst/KosarDst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
